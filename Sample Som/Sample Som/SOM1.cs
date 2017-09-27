@@ -15,10 +15,11 @@ namespace Sample_Som
         /*
          1. Change distance formula to average - done
          2. Change radius to 6 - done
-         3. Change pythagorean theorem
+         3. Change pythagorean theorem - done
          4. Change decay rate - done
-         5. Update neighbors immediately
-         6. convert song list to library
+         5. Update neighbors immediately - done
+         6. convert song list to library/table - to be done by nica
+         7. Read xml
          */
 
         int iterations = 20000;
