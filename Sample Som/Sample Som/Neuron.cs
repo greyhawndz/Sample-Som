@@ -51,17 +51,13 @@ namespace Sample_Som
             return distance / featureCount;
         }
 
-        public void AdjustWeights(List<Song> songs, int songIndex)
+        public void AdjustWeights(Song song, double learningRate)
         {
-            double newWeight;
-            for (int i = 0; i < neighbors.Count; i++)
+            for(int i = 0; i < weights.Count; i++)
             {
-                for (int j = 0; j < neighbors[i].weights.Count; j++)
-                {
-                    double oldWeight = neighbors[i].weights[j];
-                    double songWeight = songs[songIndex].Features[j];
-                    newWeight = oldWeight + (learningRate * (songWeight - oldWeight));
-                }
+                double oldWeight = weights[i];
+                double songWeight = song.Features[i];
+                weights[i] = oldWeight + (learningRate * (songWeight - oldWeight));
             }
         }
 

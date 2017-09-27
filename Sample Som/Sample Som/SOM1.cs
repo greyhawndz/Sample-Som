@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Accord.MachineLearning;
+using System.Diagnostics;
 
 
 namespace Sample_Som
@@ -89,22 +90,22 @@ namespace Sample_Som
             bestMatchIndexY = 0;
             songIndex = rand.Next(0, songs.Count);
             value = map[0, 0].GetDistance(songs[songIndex].Features);
-             /*   for(int i = 0; i < row; i++)
+            for(int i = 0; i < row; i++)
+            {
+                for(int j = 0; j < col; j++)
                 {
-                    for(int j = 0; j < col; j++)
+                    temp = map[i,j].GetDistance(songs[songIndex].Features);
+                    Console.WriteLine("Temp: " + temp);
+                    Console.WriteLine("Value: " + value);
+                    if (temp < value && songs[songIndex].Genre == map[i,j].tag)
                     {
-                        temp = map[i,j].GetDistance(songs[songIndex].Features);
-                        Console.WriteLine("Temp: " + temp);
-                        Console.WriteLine("Value: " + value);
-                        if (temp < value && songs[songIndex].Genre == map[i,j].tag)
-                        {
-                            Console.WriteLine("Genre Tag: " + map[i, j].tag);
-                            Console.WriteLine("New Best Matching Unit");
-                            value = temp;
-                            bestMatchingUnit = map[i,j];
-                        }
+                        Console.WriteLine("Genre Tag: " + map[i, j].tag);
+                        Console.WriteLine("New Best Matching Unit");
+                        value = temp;
+                        bestMatchingUnit = map[i,j];
                     }
-                } */
+                }
+            } 
 
         }
 
@@ -117,42 +118,42 @@ namespace Sample_Som
                     //Up
                     if(bestMatchingUnit.xPos - i >= 0)
                     {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Down
                     if(bestMatchingUnit.xPos + i < row)
                     {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Left
                     if(bestMatchingUnit.yPos - i >= 0)
                     {
-                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos - j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Right
                     if(bestMatchingUnit.yPos + i < col)
                     {
-                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos + j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Bottom-Right
                     if(bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos + j < col)
                     {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos + j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Upper-Left
                     if(bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos - j >= 0)
                     {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos - j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Upper-Right
                     if(bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos + j < col)
                     {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos + j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], learningRate);
                     }
                     //Bottom-Left
                     if(bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos - j >= 0)
                     {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos - j].AdjustWeights(songs, songIndex);
+                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], learningRate);
                     }
                 }
             }
@@ -185,7 +186,6 @@ namespace Sample_Som
             {
                 SetBestMatchingUnit();
                 FindKNearestNeighbor();
-                DecayRadius();
                 currentIteration++;
             }
 
@@ -215,7 +215,7 @@ namespace Sample_Som
         public void DecayRadius()
         {
             decimal value;
-            value = radius * ((iterations - currentIteration) / iterations);
+            value = radius * ((decimal)(iterations - currentIteration) / (decimal)iterations);
             radius = (int) Math.Ceiling(value);
             if(radius < 1)
             {
@@ -227,12 +227,13 @@ namespace Sample_Som
 
         public void DecayLearningRate()
         {
-            learningRate = Math.Ceiling(learningRate * ((iterations - currentIteration) / iterations));
-            if(learningRate < 0.1)
+            learningRate = learningRate * ((double)(iterations - currentIteration) / (double)iterations);
+            learningRate = Math.Round(learningRate, 1);
+            if (learningRate < 0.1)
             {
                 learningRate = 0.1;
             }
-            Console.WriteLine("New Learning Rate:" + learningRate);
+            Debug.WriteLine("Learning Rate: " + learningRate);
         }
 
     }

@@ -1,0 +1,29 @@
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\MainWindow.g.cs
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\App.g.cs
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som_Content.g.cs
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som_MarkupCompile.cache
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som_MarkupCompile.lref
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.dll.config
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Sample Som.exe.config
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Sample Som.exe
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Sample Som.pdb
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.MachineLearning.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Math.Core.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Math.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Neuro.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Statistics.dll
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.MachineLearning.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Math.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Math.Core.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Neuro.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\bin\Debug\Accord.Statistics.xml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\MainWindow.baml
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.g.resources
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample_Som.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.exe
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.pdb
