@@ -48,6 +48,15 @@ namespace Sample_Som
             time = iterations / Math.Log10(radius);
             neighbors = new List<Neuron>();
             rand = new Random();
+            ExtractFeatures();
+        }
+
+        public void ExtractFeatures()
+        {
+            for(int i = 0; i < songs.Count; i++)
+            {
+                songs[i].ExtractFeatures();
+            }
         }
 
         public void GenerateRandomWeights()
@@ -180,7 +189,9 @@ namespace Sample_Som
                 DecayLearningRate();
                 currentIteration++;
             }
+            //I just set these to constants so that the system wont calculate for the decay and save computation time
             learningRate = 0.1;
+            radius = 1;
             currentIteration = 1;
             //Fine Adjustment
             for(int i = 0; i < iterations; i++)

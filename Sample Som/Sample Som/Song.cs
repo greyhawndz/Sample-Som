@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Sample_Som
 {
@@ -57,12 +58,6 @@ namespace Sample_Som
             get; set;
         }
 
-
-        public int SquareID
-        {
-            get; set;
-        }
-
         public List<double> Features
         {
             get; set;
@@ -95,6 +90,7 @@ namespace Sample_Som
             while ((line = file.ReadLine()) != null)
             {
                 Features[counter] = double.Parse(line);
+                counter++;
             }
 
             file.Close();

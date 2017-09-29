@@ -11,10 +11,17 @@ namespace Sample_Som
     {
         public static void Main()
         {
-            
+            //SongReader reader = new SongReader();
+            //reader.ReadXML("data_Blues.i3dmods");
+            //reader.ReadXML("data_Rock.i3dmods");
+            //reader.ReadXML("data_Country.i3dmods");
+            //reader.ReadXML("data_Reggae.i3dmods");
+
+            //SOM1 structuredSOM = new SOM1(reader.songs);
+            simulateFormula();
         }
 
-        public void simulateFormula()
+        public static void simulateFormula()
         {
             decimal value;
             int radius = 6;
@@ -24,9 +31,14 @@ namespace Sample_Som
 
             for (int i = 0; i < iterations; i++)
             {
-                Debug.WriteLine(iterations);
-                Debug.WriteLine(currentIteration);
+                if(currentIteration %  100 == 0)
+                {
+                    Debug.WriteLine(iterations);
+                    Debug.WriteLine(currentIteration);
+                    Debug.WriteLine("Learning Rate: " + learningRate + " Radius: " +radius);
+                }
                 DecayLearningRate();
+                foo();
                 currentIteration++;
             }
 
@@ -39,18 +51,17 @@ namespace Sample_Som
                     radius = 1;
                 }
 
-                Debug.WriteLine("Value: " + value);
+                //Debug.WriteLine("Value: " + value);
             }
 
             void DecayLearningRate()
             {
                 learningRate = learningRate * ((double)(iterations - currentIteration) / (double)iterations);
-                learningRate = Math.Round(learningRate, 1);
                 if (learningRate < 0.1)
                 {
                     learningRate = 0.1;
                 }
-                Debug.WriteLine("Learning Rate: " + learningRate);
+               // Debug.WriteLine("Learning Rate: " + learningRate);
             }
         }
         
