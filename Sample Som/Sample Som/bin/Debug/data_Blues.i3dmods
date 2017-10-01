@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SongCollection>
+  <Song>
+    <SongId>1</SongId>
+    <Title>Born Under A Bad Sign</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-01-Born Under A Bad Sign.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-01-Born Under A Bad Sign.i3DMO</FeaturePath>
+    <Square>21</Square>
+  </Song>
+  <Song>
+    <SongId>2</SongId>
+    <Title>Change of Pace</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-02-Change of Pace.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-02-Change of Pace.i3DMO</FeaturePath>
+ <Square>8</Square> </Song>
+  <Song>
+    <SongId>3</SongId>
+    <Title>Get Out Of My Life Woman</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-03-Get Out Of My Life Woman.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-03-Get Out Of My Life Woman.i3DMO</FeaturePath>
+ <Square>8</Square> </Song>
+  <Song>
+    <SongId>4</SongId>
+    <Title>Gonna Make It Somehow</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-04-Gonna Make It Somehow.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-04-Gonna Make It Somehow.i3DMO</FeaturePath>
+ <Square>26</Square></Song>
+  <Song>
+    <SongId>5</SongId>
+    <Title>Goodtime Charlie</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-05-Goodtime Charlie.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-05-Goodtime Charlie.i3DMO</FeaturePath>
+  <Square>15</Square></Song>
+  <Song>
+    <SongId>6</SongId>
+    <Title>Guitar Man</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-06-Guitar Man.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-06-Guitar Man.i3DMO</FeaturePath>
+ <Square>15</Square> </Song>
+  <Song>
+    <SongId>7</SongId>
+    <Title>I Got The Blues</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-07-I Got The Blues.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-07-I Got The Blues.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>8</SongId>
+    <Title>Watermelon Blues</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-08-Watermelon Blues.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-08-Watermelon Blues.i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>9</SongId>
+    <Title>Don't Burn Down The Bridge</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-09-Don't Burn Down The Bridge.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-09-Don't Burn Down The Bridge.i3DMO</FeaturePath>
+ <Square>22</Square> </Song>
+  <Song>
+    <SongId>10</SongId>
+    <Title>Stormy Monday</Title>
+    <Artist>Albert King</Artist>
+    <Album>Born Under A Bad Sign</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Albert King-Born Under A Bad Sign-1967\Albert King-Born Under A Bad Sign-10-Stormy Monday.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Albert King-Born Under A Bad Sign-10-Stormy Monday.i3DMO</FeaturePath>
+ <Square>22</Square> </Song>
+  <Song>
+    <SongId>11</SongId>
+    <Title>So Excited</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-01-So Excited.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-01-So Excited.i3DMO</FeaturePath>
+  <Square>27</Square></Song>
+  <Song>
+    <SongId>12</SongId>
+    <Title>No Good</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-02-No Good.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-02-No Good.i3DMO</FeaturePath>
+  <Square>27</Square></Song>
+  <Song>
+    <SongId>13</SongId>
+    <Title>You're Losin' Me</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-03-You're Losin' Me.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-03-You're Losin' Me.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>14</SongId>
+    <Title>What Happened</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-04-What Happened.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-04-What Happened.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>15</SongId>
+    <Title>Confessin' the Blues</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-05-Confessin' the Blues.mp3</Path>
+ <Square>34</Square>   <FeaturePath>\i3DMO\Blues-BB King-Completely Well-05-Confessin' the Blues.i3DMO</FeaturePath>
+  </Song>
+  <Song>
+    <SongId>16</SongId>
+    <Title>Key to My Kingdom</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-06-Key to My Kingdom.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-06-Key to My Kingdom.i3DMO</FeaturePath>
+ <Square>34</Square></Song>
+  <Song>
+    <SongId>17</SongId>
+    <Title>Crying Won't Help You</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-07-Crying Won't Help You.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-07-Crying Won't Help You.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>18</SongId>
+    <Title>You're Mean</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-08-You're Mean.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-08-You're Mean.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>19</SongId>
+    <Title>The Thrill Is Gone</Title>
+    <Artist>BB King</Artist>
+    <Album>Completely Well</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\BB King-Completely Well-1969\BB King-Completely Well-09-The Thrill Is Gone.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-BB King-Completely Well-09-The Thrill Is Gone.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>20</SongId>
+    <Title>Dust My Blues</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-01-Dust My Blues.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-01-Dust My Blues.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>21</SongId>
+    <Title>Sunnyland</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-02-Sunnyland.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-02-Sunnyland.i3DMO</FeaturePath>
+ <Square>34</Square></Song>
+  <Song>
+    <SongId>22</SongId>
+    <Title>Mean and Evil</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-03-Mean and Evil.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-03-Mean and Evil.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>23</SongId>
+    <Title>Dark and Dreary</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-04-Dark and Dreary.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-04-Dark and Dreary.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>24</SongId>
+    <Title>Standing At The Crossroads</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-05-Standing At The Crossroads.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-05-Standing At The Crossroads.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>25</SongId>
+    <Title>Happy Home</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-06-Happy Home.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-06-Happy Home.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>26</SongId>
+    <Title>No Love In My Heart</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-07-No Love In My Heart.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-07-No Love In My Heart.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>27</SongId>
+    <Title>Blues Before Sunrise</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-08-Blues Before Sunrise.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-08-Blues Before Sunrise.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>28</SongId>
+    <Title>I Was A Fool</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-09-I Was A Fool.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-09-I Was A Fool.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>29</SongId>
+    <Title>Goodbye Baby</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-10-Goodbye Baby.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-10-Goodbye Baby.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>30</SongId>
+    <Title>Late Hours At Midnight</Title>
+    <Artist>Elmore James</Artist>
+    <Album>Blues After Hours</Album>
+    <TrackNumber>11</TrackNumber>
+    <Year>1961</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Elmore James-Blues After Hours-1961\Elmore James-Blues After Hours-11-Late Hours At Midnight.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Elmore James-Blues After Hours-11-Late Hours At Midnight.i3DMO</FeaturePath>
+<Square>34</Square>  </Song>
+  <Song>
+    <SongId>31</SongId>
+    <Title>Moanin' At Midnight</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-01-Moanin' At Midnight.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-01-Moanin' At Midnight.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>32</SongId>
+    <Title>How Many More Years</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-02-How Many More Years.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-02-How Many More Years.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>33</SongId>
+    <Title>Smokestack Lightnin'</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-03-Smokestack Lightnin'.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-03-Smokestack Lightnin'.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>34</SongId>
+    <Title>Baby How Long</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-04-Baby How Long.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-04-Baby How Long.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>35</SongId>
+    <Title>No Place To Go</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-05-No Place To Go.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-05-No Place To Go.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>36</SongId>
+    <Title>All Night Boogie</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-06-All Night Boogie.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-06-All Night Boogie.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>37</SongId>
+    <Title>Evil</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-07-Evil.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-07-Evil.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>38</SongId>
+    <Title>I'm Leavin' You</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-08-I'm Leavin' You.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-08-I'm Leavin' You.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>39</SongId>
+    <Title>Moanin' For My Baby</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-09-Moanin' For My Baby.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-09-Moanin' For My Baby.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>40</SongId>
+    <Title>I Asked For Water (She Gave Me Gasoline)</Title>
+    <Artist>Howlin' Wolf</Artist>
+    <Album>Moanin' In The Moonlight</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1986</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Howlin' Wolf-Moanin' In The Moonlight-1986\Howlin' Wolf-Moanin' In The Moonlight-10-I Asked For Water (She Gave Me Gasoline).mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Howlin' Wolf-Moanin' In The Moonlight-10-I Asked For Water (She Gave Me Gasoline).i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>41</SongId>
+    <Title>That's All I Need</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-01-That's All I Need.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-01-That's All I Need.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>42</SongId>
+    <Title>I Need You So Bad</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-02-I Need You So Bad.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-02-I Need You So Bad.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>43</SongId>
+    <Title>I Feel So Good (I Wanna Boogie)</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-03-I Feel So Good (I Wanna Boogie).mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-03-I Feel So Good (I Wanna Boogie).i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>44</SongId>
+    <Title>All Of Your Love</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-04-All Of Your Love.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-04-All Of Your Love.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>45</SongId>
+    <Title>I Don't Want No Woman</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-05-I Don't Want No Woman.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-05-I Don't Want No Woman.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>46</SongId>
+    <Title>Sweet Home Chicago</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-06-Sweet Home Chicago.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-06-Sweet Home Chicago.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>47</SongId>
+    <Title>I Found A New Love</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-07-I Found A New Love.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-07-I Found A New Love.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>48</SongId>
+    <Title>Every Night And Every Day</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-08-Every Night And Every Day.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-08-Every Night And Every Day.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>49</SongId>
+    <Title>Lookin' Good</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-09-Lookin' Good.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-09-Lookin' Good.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>50</SongId>
+    <Title>My Love Will Never Die</Title>
+    <Artist>Magic Sam</Artist>
+    <Album>West Side Soul</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1967</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Magic Sam-West Side Soul-1967\Magic Sam-West Side Soul-10-My Love Will Never Die.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Magic Sam-West Side Soul-10-My Love Will Never Die.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>51</SongId>
+    <Title>Come Back</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-01-Come Back.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-01-Come Back.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>52</SongId>
+    <Title>Steppin' Out</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-02-Steppin' Out.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-02-Steppin' Out.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>53</SongId>
+    <Title>Blue and Lonesome</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-03-Blue and Lonesome.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-03-Blue and Lonesome.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>54</SongId>
+    <Title>Rocking The House</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-04-Rocking The House.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-04-Rocking The House.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>55</SongId>
+    <Title>Slim's Blues</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-05-Slim's Blues.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-05-Slim's Blues.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>56</SongId>
+    <Title>Gotta Find My Baby</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-06-Gotta Find My Baby.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-06-Gotta Find My Baby.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>57</SongId>
+    <Title>Messin' Around</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-07-Messin' Around.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-07-Messin' Around.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>58</SongId>
+    <Title>Wish Me Well</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-08-Wish Me Well.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-08-Wish Me Well.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>59</SongId>
+    <Title>My Gal Keeps Me Crying</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-09-My Gal Keeps Me Crying.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-09-My Gal Keeps Me Crying.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>60</SongId>
+    <Title>Lend Me Your Love</Title>
+    <Artist>Memphis Slim</Artist>
+    <Album>At The Gate Of Horn</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Memphis Slim-At The Gate Of Horn-2000\Memphis Slim-At The Gate Of Horn-10-Lend Me Your Love.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Memphis Slim-At The Gate Of Horn-10-Lend Me Your Love.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>61</SongId>
+    <Title>All Aboard</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-01-All Aboard.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-01-All Aboard.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>62</SongId>
+    <Title>Mean Disposition</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-02-Mean Disposition.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-02-Mean Disposition.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>63</SongId>
+    <Title>Blow Wind Blow</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-03-Blow Wind Blow.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-03-Blow Wind Blow.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>64</SongId>
+    <Title>Can't Lose What You Ain't Never Had</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-04-Can't Lose What You Ain't Never Had.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-04-Can't Lose What You Ain't Never Had.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>65</SongId>
+    <Title>Walking Thru The Park</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-05-Walking Thru The Park.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-05-Walking Thru The Park.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>66</SongId>
+    <Title>Forty Days And Forty Nights</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-06-Forty Days And Forty Nights.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-06-Forty Days And Forty Nights.i3DMO</FeaturePath>
+ <Square>35</Square> </Song>
+  <Song>
+    <SongId>67</SongId>
+    <Title>Standin' Round Cryin'</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-07-Standin' Round Cryin'.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-07-Standin' Round Cryin'.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>68</SongId>
+    <Title>I'm Ready</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-08-I'm Ready.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-08-I'm Ready.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>69</SongId>
+    <Title>Twenty Four Hours</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-09-Twenty Four Hours.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-09-Twenty Four Hours.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>70</SongId>
+    <Title>Sugar Sweet</Title>
+    <Artist>Muddy Waters</Artist>
+    <Album>Fathers and Sons</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1969</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Muddy Waters-Fathers and Sons-1969\Muddy Waters-FathersAndSons-10-Sugar Sweet.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Muddy Waters-FathersAndSons-10-Sugar Sweet.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>71</SongId>
+    <Title>Love Struck Baby</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-01-Love Struck Baby.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-01-Love Struck Baby.i3DMO</FeaturePath>
+  <Square>34</Square></Song>
+  <Song>
+    <SongId>72</SongId>
+    <Title>Pride And Joy</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-02-Pride And Joy.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-02-Pride And Joy.i3DMO</FeaturePath>
+ <Square>34</Square></Song>
+  <Song>
+    <SongId>73</SongId>
+    <Title>Texas Flood</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-03-Texas Flood.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-03-Texas Flood.i3DMO</FeaturePath>
+ <Square>26</Square></Song>
+  <Song>
+    <SongId>74</SongId>
+    <Title>Tell Me</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-04-Tell Me.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-04-Tell Me.i3DMO</FeaturePath>
+ <Square>34</Square> </Song>
+  <Song>
+    <SongId>75</SongId>
+    <Title>Testify</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-05-Testify.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-05-Testify.i3DMO</FeaturePath>
+  <Square>14</Square></Song>
+  <Song>
+    <SongId>76</SongId>
+    <Title>Rude Mood</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-06-Rude Mood.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-06-Rude Mood.i3DMO</FeaturePath>
+  <Square>27</Square></Song>
+  <Song>
+    <SongId>77</SongId>
+    <Title>Mary Had A Little Lamb</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-07-Mary Had A Little Lamb.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-07-Mary Had A Little Lamb.i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>78</SongId>
+    <Title>Dirty Pool</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-08-Dirty Pool.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-08-Dirty Pool.i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>79</SongId>
+    <Title>I'm Cryin'</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-09-I'm Cryin'.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-09-I'm Cryin'.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>80</SongId>
+    <Title>Lenny</Title>
+    <Artist>Stevie Ray Vaughan</Artist>
+    <Album>Texas Flood</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1983</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Stevie Ray Vaughan-Texas Flood-1983\Stevie Ray Vaughan-Texas Flood-10-Lenny.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Stevie Ray Vaughan-Texas Flood-10-Lenny.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>81</SongId>
+    <Title>Good Morning Miss Brown</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-01-Good Morning Miss Brown.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-01-Good Morning Miss Brown.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>82</SongId>
+    <Title>Corinna</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-02-Corinna.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-02-Corinna.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>83</SongId>
+    <Title>I Ain't Gonna Let Nobody Steal My Jellyroll</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-03-I Ain't Gonna Let Nobody Steal My Jellyroll.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-03-I Ain't Gonna Let Nobody Steal My Jellyroll.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>84</SongId>
+    <Title>Going Up To The Country, Paint My Mailbox Blue</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-04-Going Up To The Country, Paint My Mailbox Blue.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-04-Going Up To The Country, Paint My Mailbox Blue.i3DMO</FeaturePath>
+ <Square>22</Square> </Song>
+  <Song>
+    <SongId>85</SongId>
+    <Title>Done Changed My Way Of Living</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-05-Done Changed My Way Of Living.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-05-Done Changed My Way Of Living.i3DMO</FeaturePath>
+ <Square>20</Square> </Song>
+  <Song>
+    <SongId>86</SongId>
+    <Title>She Caught The Katy And Left Me A Mule To Ride</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-06-She Caught The Katy And Left Me A Mule To Ride.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-06-She Caught The Katy And Left Me A Mule To Ride.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>87</SongId>
+    <Title>The Cuckoo</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-07-The Cuckoo.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-07-The Cuckoo.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>88</SongId>
+    <Title>You Don't Miss Your Water ('Till Your Well Runs Dry)</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-08-You Don't Miss Your Water ('Till Your Well Runs Dry).mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-08-You Don't Miss Your Water ('Till Your Well Runs Dry).i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>89</SongId>
+    <Title>Ain't That A Lot Of Love</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-09-Ain't That A Lot Of Love.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-09-Ain't That A Lot Of Love.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>90</SongId>
+    <Title>The Cuckoo (Alternate Version)</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-10-The Cuckoo (Alternate Version).mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-10-The Cuckoo (Alternate Version).i3DMO</FeaturePath>
+ <Square>14</Square></Song>
+  <Song>
+    <SongId>91</SongId>
+    <Title>New Stranger Blues (Bonus Track)</Title>
+    <Artist>Taj Mahal</Artist>
+    <Album>The Natch'l Blues</Album>
+    <TrackNumber>11</TrackNumber>
+    <Year>1968</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Taj Mahal-The Natch'l Blues-1968\Taj Mahal-The Natch'l Blues-11-New Stranger Blues (Bonus Track).mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Taj Mahal-The Natch'l Blues-11-New Stranger Blues (Bonus Track).i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>92</SongId>
+    <Title>Back Door Man</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-01-Back Door Man.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-01-Back Door Man.i3DMO</FeaturePath>
+  <Square>35</Square></Song>
+  <Song>
+    <SongId>93</SongId>
+    <Title>I Can't Quit You, Baby</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-02-I Can't Quit You, Baby.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-02-I Can't Quit You, Baby.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>94</SongId>
+    <Title>Seventh Son</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-03-Seventh Son.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-03-Seventh Son.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>95</SongId>
+    <Title>Spoonful</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-04-Spoonful.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-04-Spoonful.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>96</SongId>
+    <Title>I Ain't Superstitious</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-05-I Ain't Superstitious.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-05-I Ain't Superstitious.i3DMO</FeaturePath>
+ <Square>22</Square> </Song>
+  <Song>
+    <SongId>97</SongId>
+    <Title>You Shook Me</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-06-You Shook Me.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-06-You Shook Me.i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>98</SongId>
+    <Title>I'm Your Hoochie Coochie Man</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-07-I'm Your Hoochie Coochie Man.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-07-I'm Your Hoochie Coochie Man.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>99</SongId>
+    <Title>Little Red Rooster</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-08-Little Red Rooster.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-08-Little Red Rooster.i3DMO</FeaturePath>
+ <Square>27</Square> </Song>
+  <Song>
+    <SongId>100</SongId>
+    <Title>Same Thing</Title>
+    <Artist>Willie Dixon</Artist>
+    <Album>I Am The Blues</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1970</Year>
+    <GenreCollection>
+      <Genre>Blues</Genre>
+    </GenreCollection>
+    <Path>\Blues\Willie Dixon-I Am The Blues-1970\Willie Dixon-I Am The Blues-09-Same Thing.mp3</Path>
+    <FeaturePath>\i3DMO\Blues-Willie Dixon-I Am The Blues-09-Same Thing.i3DMO</FeaturePath>
+  <Square>27</Square></Song>
+</SongCollection>

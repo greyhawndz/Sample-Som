@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SongCollection>
+  <Song>
+    <SongId>801</SongId>
+    <Title>Three Little Birds</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-01-Three Little Birds.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-01-Three Little Birds.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>802</SongId>
+    <Title>Redemption Song</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-02-Redemption Song.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-02-Redemption Song.i3DMO</FeaturePath>
+ <Square>3</Square></Song>
+  <Song>
+    <SongId>803</SongId>
+    <Title>Wake Up And Live Part 1</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-03-Wake Up And Live Part 1.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-03-Wake Up And Live Part 1.i3DMO</FeaturePath>
+ <Square>15</Square> </Song>
+  <Song>
+    <SongId>804</SongId>
+    <Title>Bend Down Low</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-04-Bend Down Low.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-04-Bend Down Low.i3DMO</FeaturePath>
+  <Square>10</Square></Song>
+  <Song>
+    <SongId>805</SongId>
+    <Title>Lively Up Yourself</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-05-Lively Up Yourself.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-05-Lively Up Yourself.i3DMO</FeaturePath>
+ <Square>22</Square> </Song>
+  <Song>
+    <SongId>806</SongId>
+    <Title>Jamming</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-06-Jamming.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-06-Jamming.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>807</SongId>
+    <Title>Small Axe</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-07-Small Axe.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-07-Small Axe.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>808</SongId>
+    <Title>One Love People Get Ready</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-08-One Love People Get Ready.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-08-One Love People Get Ready.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>809</SongId>
+    <Title>Satisfy My Soul</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-09-Satisfy My Soul.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-09-Satisfy My Soul.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>810</SongId>
+    <Title>Could You Be Loved</Title>
+    <Artist>Bob Marley</Artist>
+    <Album>B Is For Bob</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bob Marley-B Is For Bob-2009\Bob Marley-B Is For Bob-10-Could You Be Loved.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bob Marley-B Is For Bob-10-Could You Be Loved.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>811</SongId>
+    <Title>Blackheart Man</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-01-Blackheart Man.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-01-Blackheart Man.i3DMO</FeaturePath>
+<Square>4</Square>  </Song>
+  <Song>
+    <SongId>812</SongId>
+    <Title>Fighting Against Convictions</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-02-Fighting Against Convictions.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-02-Fighting Against Convictions.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>813</SongId>
+    <Title>The Oppressed Song</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-03-The Oppressed Song.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-03-The Oppressed Song.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>814</SongId>
+    <Title>Fig Tree</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-04-Fig Tree.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-04-Fig Tree.i3DMO</FeaturePath>
+  <Square>9</Square></Song>
+  <Song>
+    <SongId>815</SongId>
+    <Title>Dream Land</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-05-Dream Land.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-05-Dream Land.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>816</SongId>
+    <Title>Rasta Man</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-06-Rasta Man.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-06-Rasta Man.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>817</SongId>
+    <Title>Reincarnated Souls</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-07-Reincarnated Souls.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-07-Reincarnated Souls.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>818</SongId>
+    <Title>Armagideon (Armagedon)</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-08-Armagideon (Armagedon).mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-08-Armagideon (Armagedon).i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>819</SongId>
+    <Title>Bide Up</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-09-Bide Up.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-09-Bide Up.i3DMO</FeaturePath>
+   <Square>10</Square></Song>
+  <Song>
+    <SongId>820</SongId>
+    <Title>This Train</Title>
+    <Artist>Bunny Wailer</Artist>
+    <Album>Blackheart Man</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Bunny Wailer-Blackheart Man-1976\Bunny Wailer-Blackheart Man-10-This Train.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Bunny Wailer-Blackheart Man-10-This Train.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>821</SongId>
+    <Title>Marcus Garvey</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-01-Marcus Garvey.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-01-Marcus Garvey.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>822</SongId>
+    <Title>Slavery Days</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-02-Slavery Days.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-02-Slavery Days.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>823</SongId>
+    <Title>The Invasion</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-03-The Invasion.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-03-The Invasion.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>824</SongId>
+    <Title>Live Good</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-04-Live Good.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-04-Live Good.i3DMO</FeaturePath>
+  <Square>15</Square></Song>
+  <Song>
+    <SongId>825</SongId>
+    <Title>Give Me</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-05-Give Me.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-05-Give Me.i3DMO</FeaturePath>
+  <Square>15</Square></Song>
+  <Song>
+    <SongId>826</SongId>
+    <Title>Old Marcus Garvey</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-06-Old Marcus Garvey.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-06-Old Marcus Garvey.i3DMO</FeaturePath>
+  <Square>15</Square></Song>
+  <Song>
+    <SongId>827</SongId>
+    <Title>Tradition</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-07-Tradition.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-07-Tradition.i3DMO</FeaturePath>
+ <Square>9</Square> </Song>
+  <Song>
+    <SongId>828</SongId>
+    <Title>Jordon River</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-08-Jordon River.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-08-Jordon River.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>829</SongId>
+    <Title>Red Gold and Green</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-09-Red Gold and Green.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-09-Red Gold and Green.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>830</SongId>
+    <Title>Resting Place</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-10-Resting Place.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-10-Resting Place.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>831</SongId>
+    <Title>The Ghost</Title>
+    <Artist>Burning Spear</Artist>
+    <Album>Marcus Garvey</Album>
+    <TrackNumber>11</TrackNumber>
+    <Year>1975</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Burning Spear-Marcus Garvey-1975\Burning Spear-Marcus Garvey-11-The Ghost.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Burning Spear-Marcus Garvey-11-The Ghost.i3DMO</FeaturePath>
+  <Square>22</Square></Song>
+  <Song>
+    <SongId>832</SongId>
+    <Title>Higher Heights</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-01-Higher Heights.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-01-Higher Heights.i3DMO</FeaturePath>
+ <Square>11</Square> </Song>
+  <Song>
+    <SongId>833</SongId>
+    <Title>Train Again</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-02-Train Again.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-02-Train Again.i3DMO</FeaturePath>
+<Square>11</Square>  </Song>
+  <Song>
+    <SongId>834</SongId>
+    <Title>Above The Bones</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-03-Above The Bones.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-03-Above The Bones.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>835</SongId>
+    <Title>My Love Goes With You</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-04-My Love Goes With You.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-04-My Love Goes With You.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>836</SongId>
+    <Title>Coastline Journey</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-05-Coastline Journey.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-05-Coastline Journey.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>837</SongId>
+    <Title>3rd Eye Vision</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-06-3rd Eye Vision.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-06-3rd Eye Vision.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>838</SongId>
+    <Title>Mountains Meet The Sea</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-07-Mountains Meet The Sea.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-07-Mountains Meet The Sea.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>839</SongId>
+    <Title>Long Road</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-08-Long Road.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-08-Long Road.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>840</SongId>
+    <Title>Some Paths</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-09-Some Paths.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-09-Some Paths.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>841</SongId>
+    <Title>Peace And Love</Title>
+    <Artist>Mishka</Artist>
+    <Album>Above The Bones</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Mishka-Above The Bones-2009\Mishka-Above The Bones-10-Peace And Love.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Mishka-Above The Bones-10-Peace And Love.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>842</SongId>
+    <Title>Legalize It</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-01-Legalize It.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-01-Legalize It.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>843</SongId>
+    <Title>Burial</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-02-Burial.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-02-Burial.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>844</SongId>
+    <Title>Whatcha Gonna Do</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-03-Whatcha Gonna Do.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-03-Whatcha Gonna Do.i3DMO</FeaturePath>
+  <Square>2</Square></Song>
+  <Song>
+    <SongId>845</SongId>
+    <Title>No Sympathy</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-04-No Sympathy.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-04-No Sympathy.i3DMO</FeaturePath>
+ <Square>11</Square> </Song>
+  <Song>
+    <SongId>846</SongId>
+    <Title>Why Must I Cry</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-05-Why Must I Cry.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-05-Why Must I Cry.i3DMO</FeaturePath>
+ <Square>11</Square> </Song>
+  <Song>
+    <SongId>847</SongId>
+    <Title>Igziabeher</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-06-Igziabeher.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-06-Igziabeher.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>848</SongId>
+    <Title>Ketchy Shuby</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-07-Ketchy Shuby.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-07-Ketchy Shuby.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>849</SongId>
+    <Title>Till Your Well Runs Dry</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-08-Till Your Well Runs Dry.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-08-Till Your Well Runs Dry.i3DMO</FeaturePath>
+ <Square>11</Square></Song>
+  <Song>
+    <SongId>850</SongId>
+    <Title>Brand New Second Hand</Title>
+    <Artist>Peter Tosh</Artist>
+    <Album>Legalize It</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Peter Tosh-Legalize It-1999\Peter Tosh-Legalize It-09-Brand New Second Hand.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Peter Tosh-Legalize It-09-Brand New Second Hand.i3DMO</FeaturePath>
+ <Square>11</Square> </Song>
+  <Song>
+    <SongId>851</SongId>
+    <Title>Bright Side Of Life</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-01-Bright Side Of Life.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-01-Bright Side Of Life.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>852</SongId>
+    <Title>More Than Ever</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-02-More Than Ever.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-02-More Than Ever.i3DMO</FeaturePath>
+ <Square>15</Square> </Song>
+  <Song>
+    <SongId>853</SongId>
+    <Title>Outta Control</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-03-Outta Control.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-03-Outta Control.i3DMO</FeaturePath>
+ <Square>11</Square></Song>
+  <Song>
+    <SongId>854</SongId>
+    <Title>From The Window</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-04-From The Window.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-04-From The Window.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>855</SongId>
+    <Title>Suffering</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-05-Suffering.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-05-Suffering.i3DMO</FeaturePath>
+ <Square>11</Square></Song>
+  <Song>
+    <SongId>856</SongId>
+    <Title>Too Rude</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-06-Too Rude.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-06-Too Rude.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>857</SongId>
+    <Title>Dubzilla</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-07-Dubzilla.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-07-Dubzilla.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>858</SongId>
+    <Title>Bump</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-08-Bump.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-08-Bump.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>859</SongId>
+    <Title>Lazy Afternoon</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-09-Lazy Afternoon.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-09-Lazy Afternoon.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>860</SongId>
+    <Title>Moonlight</Title>
+    <Artist>Rebelution</Artist>
+    <Album>Bright Side Of Life</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Rebelution-Bright Side Of Life-2009\Rebelution-Bright Side Of Life-10-Moonlight.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Rebelution-Bright Side Of Life-10-Moonlight.i3DMO</FeaturePath>
+ <Square>4</Square> </Song>
+  <Song>
+    <SongId>861</SongId>
+    <Title>Declaration Of Rights</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-01-Declaration Of Rights.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-01-Declaration Of Rights.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>862</SongId>
+    <Title>The Good Lord</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-02-The Good Lord.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-02-The Good Lord.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>863</SongId>
+    <Title>Forward Unto Zion</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-03-Forward Unto Zion.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-03-Forward Unto Zion.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>864</SongId>
+    <Title>Know Jah Today</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-04-Know Jah Today.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-04-Know Jah Today.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>865</SongId>
+    <Title>Abendigo</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-05-Abendigo.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-05-Abendigo.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>866</SongId>
+    <Title>Y Mas Gan</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-06-Y Mas Gan.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-06-Y Mas Gan.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>867</SongId>
+    <Title>Black Man's Strain</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-07-Black Man's Strain.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-07-Black Man's Strain.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>868</SongId>
+    <Title>Satta Massagana</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-08-Satta Massagana.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-08-Satta Massagana.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>869</SongId>
+    <Title>I And I</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-09-I And I.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-09-I And I.i3DMO</FeaturePath>
+ <Square>15</Square> </Song>
+  <Song>
+    <SongId>870</SongId>
+    <Title>African Race</Title>
+    <Artist>The Abyssinians</Artist>
+    <Album>Satta Massagana</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1976</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Abyssinians-Satta Massagana-1976\The Abyssinians-Satta Massagana-10-African Race.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Abyssinians-Satta Massagana-10-African Race.i3DMO</FeaturePath>
+  <Square>15</Square></Song>
+  <Song>
+    <SongId>871</SongId>
+    <Title>Firecracker</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-01-Firecracker.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-01-Firecracker.i3DMO</FeaturePath>
+ <Square>14</Square> </Song>
+  <Song>
+    <SongId>872</SongId>
+    <Title>What A Complex</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-02-What A Complex.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-02-What A Complex.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>873</SongId>
+    <Title>Wild Time</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-03-Wild Time.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-03-Wild Time.i3DMO</FeaturePath>
+<Square>20</Square>  </Song>
+  <Song>
+    <SongId>874</SongId>
+    <Title>Feelin Alright</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-04-Feelin Alright.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-04-Feelin Alright.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>875</SongId>
+    <Title>The Sufferer</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-05-The Sufferer.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-05-The Sufferer.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>876</SongId>
+    <Title>It's Time To Go</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-06-It's Time To Go.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-06-It's Time To Go.i3DMO</FeaturePath>
+  <Square>14</Square></Song>
+  <Song>
+    <SongId>877</SongId>
+    <Title>By Her Side</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-07-By Her Side.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-07-By Her Side.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>878</SongId>
+    <Title>Brother Jacob</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-08-Brother Jacob.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-08-Brother Jacob.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>879</SongId>
+    <Title>Musically On Top</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-09-Musically On Top.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-09-Musically On Top.i3DMO</FeaturePath>
+  <Square>3</Square></Song>
+  <Song>
+    <SongId>880</SongId>
+    <Title>Reggae Summertime</Title>
+    <Artist>The Aggrolites</Artist>
+    <Album>IV</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\The Aggrolites-IV-2009\The Aggrolites-IV-10-Reggae Summertime.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-The Aggrolites-IV-10-Reggae Summertime.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>881</SongId>
+    <Title>Still Is Still Moving to Me</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-01-Still Is Still Moving to Me.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-01-Still Is Still Moving to Me.i3DMO</FeaturePath>
+ <Square>9</Square> </Song>
+  <Song>
+    <SongId>882</SongId>
+    <Title>True Love Is Hard to Find</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-02-True Love Is Hard to Find.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-02-True Love Is Hard to Find.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>883</SongId>
+    <Title>Pressure Drop</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-03-Pressure Drop.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-03-Pressure Drop.i3DMO</FeaturePath>
+  <Square>10</Square></Song>
+  <Song>
+    <SongId>884</SongId>
+    <Title>Time Tough</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-04-Time Tough.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-04-Time Tough.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>885</SongId>
+    <Title>Bam Bam</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-05-Bam Bam.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-05-Bam Bam.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>886</SongId>
+    <Title>54 46 Was My Number</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-06-54 46 Was My Number.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-06-54 46 Was My Number.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>887</SongId>
+    <Title>Monkey Man</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-07-Monkey Man.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-07-Monkey Man.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>888</SongId>
+    <Title>Sweet and Dandy</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-08-Sweet and Dandy.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-08-Sweet and Dandy.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>889</SongId>
+    <Title>Funky Kingston</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-09-Funky Kingston.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-09-Funky Kingston.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>890</SongId>
+    <Title>Reggae Got Soul</Title>
+    <Artist>Toots And The Maytals</Artist>
+    <Album>True Love</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Toots And The Maytals-True Love-2004\TootsAndTheMaytals-True Love-10-Reggae Got Soul.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-TootsAndTheMaytals-True Love-10-Reggae Got Soul.i3DMO</FeaturePath>
+  <Square>4</Square></Song>
+  <Song>
+    <SongId>891</SongId>
+    <Title>Natty Sat Upon The Rock</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-01-Natty Sat Upon The Rock.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-01-Natty Sat Upon The Rock.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>892</SongId>
+    <Title>Lost Mi Love</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-02-Lost Mi Love.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-02-Lost Mi Love.i3DMO</FeaturePath>
+  <Square>10</Square></Song>
+  <Song>
+    <SongId>893</SongId>
+    <Title>Mister Chin</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-03-Mister Chin.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-03-Mister Chin.i3DMO</FeaturePath>
+  <Square>5</Square></Song>
+  <Song>
+    <SongId>894</SongId>
+    <Title>Two to Six Supermix</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-04-Two to Six Supermix.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-04-Two to Six Supermix.i3DMO</FeaturePath>
+  <Square>11</Square></Song>
+  <Song>
+    <SongId>895</SongId>
+    <Title>Morning Ride</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-05-Morning Ride.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-05-Morning Ride.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>896</SongId>
+    <Title>How You Keep a Dance</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-06-How You Keep a Dance.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-06-How You Keep a Dance.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>897</SongId>
+    <Title>Jamaica a Little Miami</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-07-Jamaica a Little Miami.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-07-Jamaica a Little Miami.i3DMO</FeaturePath>
+  <Square>10</Square></Song>
+  <Song>
+    <SongId>898</SongId>
+    <Title>Yellowman Getting Married</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-08-Yellowman Getting Married.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-08-Yellowman Getting Married.i3DMO</FeaturePath>
+  <Square>10</Square></Song>
+  <Song>
+    <SongId>899</SongId>
+    <Title>Duppy or Gunman</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-09-Duppy or Gunman.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-09-Duppy or Gunman.i3DMO</FeaturePath>
+ <Square>10</Square> </Song>
+  <Song>
+    <SongId>900</SongId>
+    <Title>Cocky Did a Hurt Me</Title>
+    <Artist>Yellowman</Artist>
+    <Album>Mister Yellowman</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1982</Year>
+    <GenreCollection>
+      <Genre>Reggae</Genre>
+    </GenreCollection>
+    <Path>\Reggae\Yellowman-Mister Yellowman-1982\Yellowman-Mister Yellowman-10-Cocky Did a Hurt Me.mp3</Path>
+    <FeaturePath>\i3DMO\Reggae-Yellowman-Mister Yellowman-10-Cocky Did a Hurt Me.i3DMO</FeaturePath>
+  <Square>9</Square></Song>
+</SongCollection>

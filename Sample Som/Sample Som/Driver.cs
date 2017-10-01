@@ -23,7 +23,7 @@ namespace Sample_Som
 
         public static void simulateFormula()
         {
-            decimal value;
+            double value;
             int radius = 6;
             double learningRate = 1.0;
             int iterations = 20000;
@@ -31,11 +31,9 @@ namespace Sample_Som
 
             for (int i = 0; i < iterations; i++)
             {
-                if(currentIteration %  100 == 0)
+                if(currentIteration % 100 == 0)
                 {
-                    Debug.WriteLine(iterations);
                     Debug.WriteLine(currentIteration);
-                    Debug.WriteLine("Learning Rate: " + learningRate + " Radius: " +radius);
                 }
                 DecayLearningRate();
                 foo();
@@ -44,7 +42,7 @@ namespace Sample_Som
 
             void foo()
             {
-                value = radius * ((decimal)(iterations - currentIteration) / (decimal)iterations);
+                value = 6 * ((double)(iterations - currentIteration) / (double)iterations);
                 radius = (int)Math.Ceiling(value);
                 if (radius < 1)
                 {
@@ -52,16 +50,26 @@ namespace Sample_Som
                 }
 
                 //Debug.WriteLine("Value: " + value);
+                if (currentIteration % 100 == 0)
+                {
+
+                    Debug.WriteLine("Radius: " + radius);
+                }
             }
 
             void DecayLearningRate()
             {
-                learningRate = learningRate * ((double)(iterations - currentIteration) / (double)iterations);
+                learningRate = 1.0 * ((double)(iterations - currentIteration) / (double)iterations);
                 if (learningRate < 0.1)
                 {
                     learningRate = 0.1;
                 }
-               // Debug.WriteLine("Learning Rate: " + learningRate);
+                // Debug.WriteLine("Learning Rate: " + learningRate);
+                if (currentIteration % 100 == 0)
+                {
+                    
+                    Debug.WriteLine("Learning Rate: " + learningRate);
+                }
             }
         }
         

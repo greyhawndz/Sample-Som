@@ -27,3 +27,4 @@ C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sampl
 C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.csproj.GenerateResource.Cache
 C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.exe
 C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.pdb
+C:\Users\William\Documents\Visual Studio 2017\Projects\Som Repo\Sample Som\Sample Som\obj\Debug\Sample Som.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SongCollection>
+  <Song>
+    <SongId>901</SongId>
+    <Title>Life In Technicolor</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-01-Life In Technicolor.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-01-Life In Technicolor.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>902</SongId>
+    <Title>Cemeteries Of London</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-02-Cemeteries Of London.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-02-Cemeteries Of London.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>903</SongId>
+    <Title>Lost</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-03-Lost.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-03-Lost.i3DMO</FeaturePath>
+    <Square>7</Square>
+  </Song>
+  <Song>
+    <SongId>904</SongId>
+    <Title>42</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-04-42.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-04-42.i3DMO</FeaturePath>
+    <Square>7</Square>
+  </Song>
+  <Song>
+    <SongId>905</SongId>
+    <Title>Lovers In Japan Reign Of Love</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-05-Lovers In Japan Reign Of Love.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-05-Lovers In Japan Reign Of Love.i3DMO</FeaturePath>
+    <Square>7</Square>
+  </Song>
+  <Song>
+    <SongId>906</SongId>
+    <Title>Yes</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-06-Yes.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-06-Yes.i3DMO</FeaturePath>
+    <Square>20</Square>
+  </Song>
+  <Song>
+    <SongId>907</SongId>
+    <Title>Viva La Vida</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-07-Viva La Vida.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-07-Viva La Vida.i3DMO</FeaturePath>
+    <Square>7</Square>
+  </Song>
+  <Song>
+    <SongId>908</SongId>
+    <Title>Violet Hill</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-08-Violet Hill.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-08-Violet Hill.i3DMO</FeaturePath>
+    <Square>12</Square>
+  </Song>
+  <Song>
+    <SongId>909</SongId>
+    <Title>Strawberry Swing</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-09-Strawberry Swing.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-09-Strawberry Swing.i3DMO</FeaturePath>
+    <Square>2</Square>
+  </Song>
+  <Song>
+    <SongId>910</SongId>
+    <Title>Death And All His Friends</Title>
+    <Artist>Coldplay</Artist>
+    <Album>Viva La Vida</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2008</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Coldplay-Viva La Vida-2008\Coldplay-Viva La Vida-10-Death And All His Friends.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Coldplay-Viva La Vida-10-Death And All His Friends.i3DMO</FeaturePath>
+    <Square>21</Square>
+  </Song>
+  <Song>
+    <SongId>911</SongId>
+    <Title>Overcome</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-01-Overcome.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-01-Overcome.i3DMO</FeaturePath>
+    <Square>2</Square>
+  </Song>
+  <Song>
+    <SongId>912</SongId>
+    <Title>Bread Of Shame</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-02-Bread Of Shame.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-02-Bread Of Shame.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>913</SongId>
+    <Title>A Thousand Faces</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-03-A Thousand Faces.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-03-A Thousand Faces.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>914</SongId>
+    <Title>Suddenly</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-04-Suddenly.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-04-Suddenly.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>915</SongId>
+    <Title>Rain</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-05-Rain.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-05-Rain.i3DMO</FeaturePath>
+    <Square>19</Square>
+  </Song>
+  <Song>
+    <SongId>916</SongId>
+    <Title>Away In Silence</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-06-Away In Silence.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-06-Away In Silence.i3DMO</FeaturePath>
+    <Square>2</Square>
+  </Song>
+  <Song>
+    <SongId>917</SongId>
+    <Title>Fear</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-07-Fear.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-07-Fear.i3DMO</FeaturePath>
+    <Square>2</Square>
+  </Song>
+  <Song>
+    <SongId>918</SongId>
+    <Title>On My Sleeve</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-08-On My Sleeve.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-08-On My Sleeve.i3DMO</FeaturePath>
+    <Square>20</Square>
+  </Song>
+  <Song>
+    <SongId>919</SongId>
+    <Title>Full Circle</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-09-Full Circle.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-09-Full Circle.i3DMO</FeaturePath>
+    <Square>21</Square>
+  </Song>
+  <Song>
+    <SongId>920</SongId>
+    <Title>Time</Title>
+    <Artist>Creed</Artist>
+    <Album>Full Circle</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2009</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Creed-Full Circle-2009\Creed-Full Circle-10-Time.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Creed-Full Circle-10-Time.i3DMO</FeaturePath>
+    <Square>20</Square>
+  </Song>
+  <Song>
+    <SongId>921</SongId>
+    <Title>Stay With You</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-01-Stay With You.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-01-Stay With You.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>922</SongId>
+    <Title>Let Love In</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-02-Let Love In.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-02-Let Love In.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>923</SongId>
+    <Title>Feel The Silence</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-03-Feel The Silence.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-03-Feel The Silence.i3DMO</FeaturePath>
+    <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>924</SongId>
+    <Title>Better Days</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-04-Better Days.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-04-Better Days.i3DMO</FeaturePath>
+    <Square>8</Square>
+  </Song>
+  <Song>
+    <SongId>925</SongId>
+    <Title>Without You Here</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-05-Without You Here.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-05-Without You Here.i3DMO</FeaturePath>
+    <Square>26</Square>
+  </Song>
+  <Song>
+    <SongId>926</SongId>
+    <Title>Listen</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-06-Listen.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-06-Listen.i3DMO</FeaturePath>
+    <Square>8</Square>
+  </Song>
+  <Song>
+    <SongId>927</SongId>
+    <Title>Give A Little Bit</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-07-Give A Little Bit.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-07-Give A Little Bit.i3DMO</FeaturePath>
+ <Square>26</Square>
+  </Song>
+  <Song>
+    <SongId>928</SongId>
+    <Title>Can't Let It Go</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-08-Can't Let It Go.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-08-Can't Let It Go.i3DMO</FeaturePath>
+ <Square>20</Square>
+  </Song>
+  <Song>
+    <SongId>929</SongId>
+    <Title>We'll Be Here (When You're Gone)</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-09-We'll Be Here (When You're Gone).mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-09-We'll Be Here (When You're Gone).i3DMO</FeaturePath>
+ <Square>14</Square>
+  </Song>
+  <Song>
+    <SongId>930</SongId>
+    <Title>Strange Love</Title>
+    <Artist>Goo Goo Dolls</Artist>
+    <Album>Let Love In</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2006</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Goo Goo Dolls-Let Love In-2006\Goo Goo Dolls-Let Love In-10-Strange Love.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Goo Goo Dolls-Let Love In-10-Strange Love.i3DMO</FeaturePath>
+ <Square>14</Square>
+  </Song>
+  <Song>
+    <SongId>931</SongId>
+    <Title>American Idiot</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-01-American Idiot.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-01-American Idiot.i3DMO</FeaturePath>
+ 
+ <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>932</SongId>
+    <Title>Jesus Of Suburbia</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-02-Jesus Of Suburbia.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-02-Jesus Of Suburbia.i3DMO</FeaturePath>
+ <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>933</SongId>
+    <Title>Holiday</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-03-Holiday.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-03-Holiday.i3DMO</FeaturePath>
+ <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>934</SongId>
+    <Title>Boulevard Of Broken Dreams</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-04-Boulevard Of Broken Dreams.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-04-Boulevard Of Broken Dreams.i3DMO</FeaturePath>
+ <Square>21</Square>
+  </Song>
+  <Song>
+    <SongId>935</SongId>
+    <Title>Are We the Waiting</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-05-Are We the Waiting.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-05-Are We the Waiting.i3DMO</FeaturePath>
+<Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>936</SongId>
+    <Title>St. Jimmy</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-06-St. Jimmy.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-06-St. Jimmy.i3DMO</FeaturePath>
+<Square>7</Square>
+  </Song>
+  <Song>
+    <SongId>937</SongId>
+    <Title>Give Me Novacaine</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-07-Give Me Novacaine.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-07-Give Me Novacaine.i3DMO</FeaturePath>
+  <Square>0</Square>
+  </Song>
+  <Song>
+    <SongId>938</SongId>
+    <Title>She's a Rebel</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-08-She's a Rebel.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-08-She's a Rebel.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>939</SongId>
+    <Title>Extraordinary Girl</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-09-Extraordinary Girl.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-09-Extraordinary Girl.i3DMO</FeaturePath>
+ 
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>940</SongId>
+    <Title>Letterbomb</Title>
+    <Artist>Green Day</Artist>
+    <Album>American Idiot</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2004</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Green Day-American Idiot-2004\Green Day-American Idiot-10-Letterbomb.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Green Day-American Idiot-10-Letterbomb.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>941</SongId>
+    <Title>Hanging By A Moment</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-01-Hanging By A Moment.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-01-Hanging By A Moment.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>942</SongId>
+    <Title>Sick Cycle Carousel</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-02-Sick Cycle Carousel.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-02-Sick Cycle Carousel.i3DMO</FeaturePath>
+  <Square>12</Square></Song>
+  <Song>
+    <SongId>943</SongId>
+    <Title>Unknown</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-03-Unknown.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-03-Unknown.i3DMO</FeaturePath>
+<Square>19</Square>  </Song>
+  <Song>
+    <SongId>944</SongId>
+    <Title>Somebody Elses Song</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-04-Somebody Elses Song.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-04-Somebody Elses Song.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>945</SongId>
+    <Title>Trying</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-05-Trying.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-05-Trying.i3DMO</FeaturePath>
+  <Square>20</Square>
+  </Song>
+  <Song>
+    <SongId>946</SongId>
+    <Title>Only One</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-06-Only One.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-06-Only One.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>947</SongId>
+    <Title>Simon</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-07-Simon.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-07-Simon.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>948</SongId>
+    <Title>Cling And Clatter</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-08-Cling And Clatter.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-08-Cling And Clatter.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>949</SongId>
+    <Title>Breathing</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-09-Breathing.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-09-Breathing.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>950</SongId>
+    <Title>Quasimodo</Title>
+    <Artist>Lifehouse</Artist>
+    <Album>No Name Face</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2000</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Lifehouse-No Name Face-2000\Lifehouse-No Name Face-10-Quasimodo.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Lifehouse-No Name Face-10-Quasimodo.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>951</SongId>
+    <Title>Real World</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-01-Real World.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-01-Real World.i3DMO</FeaturePath>
+ <Square>7</Square> </Song>
+  <Song>
+    <SongId>952</SongId>
+    <Title>Long Day</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-02-Long Day.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-02-Long Day.i3DMO</FeaturePath>
+  <Square>2</Square></Song>
+  <Song>
+    <SongId>953</SongId>
+    <Title>3 AM</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-03-3 AM.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-03-3 AM.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>954</SongId>
+    <Title>Push</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-04-Push.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-04-Push.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>955</SongId>
+    <Title>Girl Like That</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-05-Girl Like That.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-05-Girl Like That.i3DMO</FeaturePath>
+ <Square>20</Square> </Song>
+  <Song>
+    <SongId>956</SongId>
+    <Title>Back 2 Good</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-06-Back 2 Good.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-06-Back 2 Good.i3DMO</FeaturePath>
+ <Square>20</Square> </Song>
+  <Song>
+    <SongId>957</SongId>
+    <Title>Damn</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-07-Damn.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-07-Damn.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>958</SongId>
+    <Title>Argue</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-08-Argue.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-08-Argue.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>959</SongId>
+    <Title>Kody</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-09-Kody.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-09-Kody.i3DMO</FeaturePath>
+  <Square>18</Square></Song>
+  <Song>
+    <SongId>960</SongId>
+    <Title>Busted</Title>
+    <Artist>Matchbox 20</Artist>
+    <Album>Yourself or Someone Like You</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1996</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Matchbox 20-Yourself or Someone Like You-1996\Matchbox 20-Yourself or Someone Like You-10-Busted.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Matchbox 20-Yourself or Someone Like You-10-Busted.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>961</SongId>
+    <Title>Once</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-01-Once.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-01-Once.i3DMO</FeaturePath>
+ <Square>9</Square> </Song>
+  <Song>
+    <SongId>962</SongId>
+    <Title>Even Flow</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-02-Even Flow.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-02-Even Flow.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>963</SongId>
+    <Title>Alive</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-03-Alive.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-03-Alive.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>964</SongId>
+    <Title>Why Go</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-04-Why Go.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-04-Why Go.i3DMO</FeaturePath>
+  <Square>21</Square></Song>
+  <Song>
+    <SongId>965</SongId>
+    <Title>Black</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-05-Black.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-05-Black.i3DMO</FeaturePath>
+  <Square>9</Square></Song>
+  <Song>
+    <SongId>966</SongId>
+    <Title>Jeremy</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-06-Jeremy.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-06-Jeremy.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>967</SongId>
+    <Title>Oceans</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-07-Oceans.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-07-Oceans.i3DMO</FeaturePath>
+  <Square>2</Square></Song>
+  <Song>
+    <SongId>968</SongId>
+    <Title>Porch</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-08-Porch.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-08-Porch.i3DMO</FeaturePath>
+  <Square>20</Square></Song>
+  <Song>
+    <SongId>969</SongId>
+    <Title>Garden</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-09-Garden.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-09-Garden.i3DMO</FeaturePath>
+  <Square>7</Square></Song>
+  <Song>
+    <SongId>970</SongId>
+    <Title>Deep</Title>
+    <Artist>Pearl Jam</Artist>
+    <Album>Ten</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1991</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Pearl Jam-Ten-1991\Pearl Jam-Ten-10-Deep.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Pearl Jam-Ten-10-Deep.i3DMO</FeaturePath>
+  <Square>7</Square></Song>
+  <Song>
+    <SongId>971</SongId>
+    <Title>Around the World</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-01-Around the World.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-01-Around the World.i3DMO</FeaturePath>
+ <Square>9</Square> </Song>
+  <Song>
+    <SongId>972</SongId>
+    <Title>Parallel Universe</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-02-Parallel Universe.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-02-Parallel Universe.i3DMO</FeaturePath>
+  <Square>12</Square></Song>
+  <Song>
+    <SongId>973</SongId>
+    <Title>Scar Tissue</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-03-Scar Tissue.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-03-Scar Tissue.i3DMO</FeaturePath>
+ <Square>12</Square> </Song>
+  <Song>
+    <SongId>974</SongId>
+    <Title>Otherside</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-04-Otherside.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-04-Otherside.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>975</SongId>
+    <Title>Get On Top</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-05-Get On Top.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-05-Get On Top.i3DMO</FeaturePath>
+  <Square>0</Square></Song>
+  <Song>
+    <SongId>976</SongId>
+    <Title>Californication</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-06-Californication.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-06-Californication.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>977</SongId>
+    <Title>Easily</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-07-Easily.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-07-Easily.i3DMO</FeaturePath>
+ <Square>0</Square> </Song>
+  <Song>
+    <SongId>978</SongId>
+    <Title>Porcelain</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-08-Porcelain.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-08-Porcelain.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>979</SongId>
+    <Title>Emit Remmus</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-09-Emit Remmus.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-09-Emit Remmus.i3DMO</FeaturePath>
+ <Square>21</Square> </Song>
+  <Song>
+    <SongId>980</SongId>
+    <Title>I Like Dirt</Title>
+    <Artist>Red Hot Chili Peppers</Artist>
+    <Album>Californication</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1999</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Red Hot Chili Peppers-Californication-1999\Red Hot Chili Peppers-Californication-10-I Like Dirt.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Red Hot Chili Peppers-Californication-10-I Like Dirt.i3DMO</FeaturePath>
+ <Square>29</Square> </Song>
+  <Song>
+    <SongId>981</SongId>
+    <Title>Unstoppable</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-01-Unstoppable.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-01-Unstoppable.i3DMO</FeaturePath>
+  <Square>2</Square></Song>
+  <Song>
+    <SongId>982</SongId>
+    <Title>Nothing's Changed</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-02-Nothing's Changed.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-02-Nothing's Changed.i3DMO</FeaturePath>
+<Square>2</Square>  </Song>
+  <Song>
+    <SongId>983</SongId>
+    <Title>Wherever You Will Go</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-03-Wherever You Will Go.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-03-Wherever You Will Go.i3DMO</FeaturePath>
+<Square>0</Square>  </Song>
+  <Song>
+    <SongId>984</SongId>
+    <Title>Could It Be Any Harder</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-04-Could It Be Any Harder.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-04-Could It Be Any Harder.i3DMO</FeaturePath>
+  <Square>7</Square></Song>
+  <Song>
+    <SongId>985</SongId>
+    <Title>Final Answer</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-05-Final Answer.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-05-Final Answer.i3DMO</FeaturePath>
+  <Square>7</Square></Song>
+  <Song>
+    <SongId>986</SongId>
+    <Title>Adrienne</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-06-Adrienne.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-06-Adrienne.i3DMO</FeaturePath>
+ <Square>14</Square> </Song>
+  <Song>
+    <SongId>987</SongId>
+    <Title>We're Forgiven</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-07-We're Forgiven.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-07-We're Forgiven.i3DMO</FeaturePath>
+ <Square>14</Square> </Song>
+  <Song>
+    <SongId>988</SongId>
+    <Title>Things Don't Always Turn Out That Way</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-08-Things Don't Always Turn Out That Way.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-08-Things Don't Always Turn Out That Way.i3DMO</FeaturePath>
+ <Square>12</Square> </Song>
+  <Song>
+    <SongId>989</SongId>
+    <Title>Just That Good</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-09-Just That Good.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-09-Just That Good.i3DMO</FeaturePath>
+ <Square>13</Square> </Song>
+  <Song>
+    <SongId>990</SongId>
+    <Title>Thank You</Title>
+    <Artist>The Calling</Artist>
+    <Album>Camino Palmero</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>2001</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\The Calling-Camino Palmero-2001\The Calling-Camino Palmero-10-Thank You.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-The Calling-Camino Palmero-10-Thank You.i3DMO</FeaturePath>
+ <Square>14</Square> </Song>
+  <Song>
+    <SongId>991</SongId>
+    <Title>Losing A Whole Year</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>1</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-01-Losing A Whole Year.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-01-Losing A Whole Year.i3DMO</FeaturePath>
+ <Square>14</Square> </Song>
+  <Song>
+    <SongId>992</SongId>
+    <Title>Narcolepsy</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>2</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-02-Narcolepsy.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-02-Narcolepsy.i3DMO</FeaturePath>
+ <Square>9</Square> </Song>
+  <Song>
+    <SongId>993</SongId>
+    <Title>Semi-Charmed Life</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>3</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-03-Semi Charmed Life.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-03-Semi-Charmed Life.i3DMO</FeaturePath>
+  <Square>14</Square></Song>
+  <Song>
+    <SongId>994</SongId>
+    <Title>Jumper</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>4</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-04-Jumper.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-04-Jumper.i3DMO</FeaturePath>
+ <Square>13</Square> </Song>
+  <Song>
+    <SongId>995</SongId>
+    <Title>Graduate</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>5</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-05-Graduate.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-05-Graduate.i3DMO</FeaturePath>
+ <Square>13</Square> </Song>
+  <Song>
+    <SongId>996</SongId>
+    <Title>How's It Going To Be</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>6</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-06-How's It Going To Be.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-06-How's It Going To Be.i3DMO</FeaturePath>
+ <Square>12</Square> </Song>
+  <Song>
+    <SongId>997</SongId>
+    <Title>Thanks A Lot</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>7</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-07-Thanks A Lot.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-07-Thanks A Lot.i3DMO</FeaturePath>
+ <Square>2</Square> </Song>
+  <Song>
+    <SongId>998</SongId>
+    <Title>Burning Man</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>8</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-08-Burning Man.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-08-Burning Man.i3DMO</FeaturePath>
+ <Square>3</Square> </Song>
+  <Song>
+    <SongId>999</SongId>
+    <Title>Good For You</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>9</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-09-Good For You.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-09-Good For You.i3DMO</FeaturePath>
+ <Square>7</Square> </Song>
+  <Song>
+    <SongId>1000</SongId>
+    <Title>London</Title>
+    <Artist>Third Eye Blind</Artist>
+    <Album>Third Eye Blind</Album>
+    <TrackNumber>10</TrackNumber>
+    <Year>1997</Year>
+    <GenreCollection>
+      <Genre>Rock</Genre>
+    </GenreCollection>
+    <Path>\Rock\Third Eye Blind-Third Eye Blind-1997\Third Eye Blind-Third Eye Blind-10-London.mp3</Path>
+    <FeaturePath>\i3DMO\Rock-Third Eye Blind-Third Eye Blind-10-London.i3DMO</FeaturePath>
+ <Square>12</Square> </Song>
+</SongCollection>
