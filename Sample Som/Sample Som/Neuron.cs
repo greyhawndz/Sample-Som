@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Sample_Som
 {
@@ -59,6 +60,7 @@ namespace Sample_Som
                 double songWeight = song.Features[i];
                 weights[i] = oldWeight + (learningRate * (songWeight - oldWeight));
             }
+            Debug.WriteLine("Weights updated");
         }
 
         public void AddSongToList(Song song)

@@ -34,20 +34,26 @@ namespace Sample_Som
         int bestMatchIndexX = 0;
         int bestMatchIndexY = 0;
         List<Song> songs;
-        Neuron[,] map = null;
+        Neuron[,] map;
         Neuron bestMatchingUnit;
         Random rand;
 
         public SOM1(List<Song> songs)
         {
-            GenerateRandomWeights();
             this.songs = songs;
             map = new Neuron[row, col];
             currentIteration = 1;
             rand = new Random();
             newLearningRate = learningRate;
             newRadius = radius;
-            ExtractFeatures();
+            //ExtractFeatures();
+            songIndex = rand.Next(0, songs.Count);
+            Debug.WriteLine("In SOM");
+            foreach(Song song in songs)
+            {
+                Debug.WriteLine(song.Title);
+            }
+            GenerateRandomWeights();
         }
 
         public void ExtractFeatures()
@@ -64,52 +70,58 @@ namespace Sample_Som
             {
                 for(int j = 0; j < col; j++)
                 {
-                    Neuron neuron = new Neuron();
-                    neuron.Initialize();
-                    neuron.xPos = i;
-                    neuron.yPos = j;
+                    map[i,j] = new Neuron();
+                    map[i,j].Initialize();
+                    map[i,j].xPos = i;
+                    map[i,j].yPos = j;
 
                     //Set genre tags
                     if(i >= 0 && i < row/2 && j >= 0 && j < col/2)
                     {
-                        neuron.tag = "Rock";
+                        map[i,j].tag = "Rock";
                     }
                     else if(i >= 0 && i < row/2 && j >= col/2 && j < col)
                     {
-                        neuron.tag = "Reggae";
+                        map[i,j].tag = "Reggae";
                     }
                     else if (i >= row/2 && i < row && j >= 0 && j < col/2)
                     {
-                        neuron.tag = "Country";
+                        map[i,j].tag = "Country";
                     }
                     else if (i >= row/2 && i < row && j >= col/2 && j < col)
                     {
-                        neuron.tag = "Blues";
+                        map[i,j].tag = "Blues";
                     }
+                    
                 }
             }
         }
 
         public void SetBestMatchingUnit()
         {
-            double value;
-            double temp;
+            double value = -1;
+            double temp = 0;
             
             bestMatchIndexX = 0;
             bestMatchIndexY = 0;
             songIndex = rand.Next(0, songs.Count);
-            value = map[0, 0].GetDistance(songs[songIndex].Features);
             for(int i = 0; i < row; i++)
             {
                 for(int j = 0; j < col; j++)
                 {
                     temp = map[i,j].GetDistance(songs[songIndex].Features);
-                    Console.WriteLine("Temp: " + temp);
-                    Console.WriteLine("Value: " + value);
+                    if(value == -1)
+                    {
+                        value = temp;
+                    }
+                   // Console.WriteLine("Temp: " + temp);
+                   // Console.WriteLine("Value: " + value);
                     if (temp < value && songs[songIndex].Genre == map[i,j].tag)
                     {
                         Console.WriteLine("Genre Tag: " + map[i, j].tag);
+                        Console.WriteLine("Title: " + songs[songIndex]);
                         Console.WriteLine("New Best Matching Unit");
+                        Console.WriteLine("Best X: " + i + " Best Y: " + j);
                         value = temp;
                         bestMatchingUnit = map[i,j];
                     }
@@ -124,46 +136,50 @@ namespace Sample_Som
             {
                 for(int j = 1; j <= newRadius; j++)
                 {
-                    //Up
-                    if(bestMatchingUnit.xPos - i >= 0)
+                    if(bestMatchingUnit != null)
                     {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], newLearningRate);
+                        //Up
+                        if (bestMatchingUnit.xPos - i >= 0)
+                        {
+                            map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Down
+                        if (bestMatchingUnit.xPos + i < row)
+                        {
+                            map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Left
+                        if (bestMatchingUnit.yPos - j >= 0)
+                        {
+                            map[bestMatchingUnit.xPos, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Right
+                        if (bestMatchingUnit.yPos + j < col)
+                        {
+                            map[bestMatchingUnit.xPos, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Bottom-Right
+                        if (bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos + j < col)
+                        {
+                            map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Upper-Left
+                        if (bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos - j >= 0)
+                        {
+                            map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Upper-Right
+                        if (bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos + j < col)
+                        {
+                            map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
+                        //Bottom-Left
+                        if (bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos - j >= 0)
+                        {
+                            map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
+                        }
                     }
-                    //Down
-                    if(bestMatchingUnit.xPos + i < row)
-                    {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Left
-                    if(bestMatchingUnit.yPos - i >= 0)
-                    {
-                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Right
-                    if(bestMatchingUnit.yPos + i < col)
-                    {
-                        map[bestMatchingUnit.xPos, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Bottom-Right
-                    if(bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos + j < col)
-                    {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Upper-Left
-                    if(bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos - j >= 0)
-                    {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Upper-Right
-                    if(bestMatchingUnit.xPos - i >= 0 && bestMatchingUnit.yPos + j < col)
-                    {
-                        map[bestMatchingUnit.xPos - i, bestMatchingUnit.yPos + j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
-                    //Bottom-Left
-                    if(bestMatchingUnit.xPos + i < row && bestMatchingUnit.yPos - j >= 0)
-                    {
-                        map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
-                    }
+                    
                 }
             }
             
@@ -173,12 +189,11 @@ namespace Sample_Som
 
         public void Train()
         {
-            double value;
+            double value = -1;
             double temp;
 
             bestMatchIndexX = 0;
             bestMatchIndexY = 0;
-            value = map[0, 0].GetDistance(songs[songIndex].Features);
             //Global Ordering
             for (int i = 0; i < iterations; i++)
             {
@@ -208,18 +223,38 @@ namespace Sample_Som
                     for (int x = 0; x < col; x++)
                     {
                         temp = map[j, x].GetDistance(songs[i].Features);
-                        Console.WriteLine("Temp: " + temp);
-                        Console.WriteLine("Value: " + value);
-                        if (temp < value)
+                        if(value == -1)
                         {
-                            Console.WriteLine("New Best Matching Unit");
+                            value = temp;
+                        }
+                       
+                        if (temp < value && songs[i].Genre == map[j,x].tag)
+                        {
+                            Debug.WriteLine("Final Temp: " + temp);
+                            Debug.WriteLine("Final Value: " + value);
+                            Debug.WriteLine("Adding song to best matching unit " +songs[i].Title +" " +songs[i].Genre);
                             value = temp;
                             bestMatchIndexX = j;
                             bestMatchIndexY = x;
+                            Debug.WriteLine("Best X: " + bestMatchIndexX);
+                            Debug.WriteLine("Best Y: " + bestMatchIndexY);
+                            map[bestMatchIndexX, bestMatchIndexY].AddSongToList(songs[i]);
+                            songs[i].XPos = bestMatchIndexX;
+                            songs[i].YPos = bestMatchIndexY;
+                        }
+                        else
+                        {
+                            value = temp;
                         }
                     }
-                    map[bestMatchIndexX, bestMatchIndexY].AddSongToList(songs[i]);
+                    
+
                 }
+            }
+            for (int i = 0; i < songs.Count; i++)
+            {
+                Debug.WriteLine(songs[i].Title);
+                Debug.WriteLine(songs[i].XPos +", " +songs[i].YPos);
             }
         }
 
@@ -233,7 +268,7 @@ namespace Sample_Som
                 newRadius = 1;
             }
 
-            Console.WriteLine("New neighborhood radius:" + newRadius);
+            //Console.WriteLine("New neighborhood radius:" + newRadius);
         }
 
         public void DecayLearningRate()
@@ -243,7 +278,7 @@ namespace Sample_Som
             {
                 newLearningRate = 0.1;
             }
-            Debug.WriteLine("Learning Rate: " + newLearningRate);
+            //Debug.WriteLine("Learning Rate: " + newLearningRate);
         }
 
     }

@@ -11,14 +11,16 @@ namespace Sample_Som
     {
         public static void Main()
         {
-            //SongReader reader = new SongReader();
-            //reader.ReadXML("data_Blues.i3dmods");
-            //reader.ReadXML("data_Rock.i3dmods");
-            //reader.ReadXML("data_Country.i3dmods");
-            //reader.ReadXML("data_Reggae.i3dmods");
+            SongReader reader = new SongReader();
+            reader.ReadXML("data_Blues.i3dmods");
+            reader.ReadXML("data_Rock.i3dmods");
+            reader.ReadXML("data_Country.i3dmods");
+            reader.ReadXML("data_Reggae.i3dmods");
 
-            //SOM1 structuredSOM = new SOM1(reader.songs);
-            simulateFormula();
+            
+            SOM1 structuredSOM = new SOM1(reader.songs);
+            structuredSOM.Train();
+            //simulateFormula();
         }
 
         public static void simulateFormula()

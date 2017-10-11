@@ -68,6 +68,16 @@ namespace Sample_Som
             get; set;
         }
 
+        public int XPos
+        {
+            get; set;
+        }
+
+        public int YPos
+        {
+            get; set;
+        }
+
         public double GetTotal()
         {
 
@@ -82,15 +92,12 @@ namespace Sample_Som
 
         public void ExtractFeatures()
         {
-            int counter = 0;
             String line;
-
             StreamReader file = new StreamReader(FeaturePath);
 
             while ((line = file.ReadLine()) != null)
             {
-                Features[counter] = double.Parse(line);
-                counter++;
+                Features.Add(double.Parse(line));
             }
 
             file.Close();
