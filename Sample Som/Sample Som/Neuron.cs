@@ -58,9 +58,9 @@ namespace Sample_Som
             {
                 double oldWeight = weights[i];
                 double songWeight = song.Features[i];
-                weights[i] = oldWeight + (learningRate * (songWeight - oldWeight));
+                weights[i] = Math.Abs(oldWeight + (learningRate * (songWeight - oldWeight)));
             }
-            Debug.WriteLine("Weights updated");
+            
         }
 
         public void AddSongToList(Song song)

@@ -41,10 +41,7 @@ namespace Sample_Som
             {
                 songs.Add(song);
             }
-            foreach(Song song in songs)
-            {
-                song.ExtractFeatures();
-            }
+            
 
         }
     }

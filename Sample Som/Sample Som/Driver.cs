@@ -12,12 +12,13 @@ namespace Sample_Som
         public static void Main()
         {
             SongReader reader = new SongReader();
-            reader.ReadXML("data_Blues.i3dmods");
             reader.ReadXML("data_Rock.i3dmods");
+            reader.ReadXML("data_Blues.i3dmods");
             reader.ReadXML("data_Country.i3dmods");
             reader.ReadXML("data_Reggae.i3dmods");
 
-            
+            //VanillaSOM som = new VanillaSOM(reader.songs, 4, 4);
+            //som.Train();
             SOM1 structuredSOM = new SOM1(reader.songs);
             structuredSOM.Train();
             //simulateFormula();

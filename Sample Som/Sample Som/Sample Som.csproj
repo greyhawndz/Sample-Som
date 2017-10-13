@@ -86,6 +86,8 @@
     <Compile Include="SOM1.cs" />
     <Compile Include="Song.cs" />
     <Compile Include="SongReader.cs" />
+    <Compile Include="VanillaSOM.cs" />
+    <Compile Include="Writer.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

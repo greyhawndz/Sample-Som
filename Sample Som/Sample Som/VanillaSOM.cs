@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 using Accord.MachineLearning;
 using System.Diagnostics;
 
-
 namespace Sample_Som
 {
-    class SOM1
+    class VanillaSOM
     {
         //TO DO:
         /*
@@ -28,17 +27,19 @@ namespace Sample_Som
         double newLearningRate;
         int radius = 6;
         int newRadius;
-        int row = 6;
-        int col = 6;
+        int row;
+        int col;
         int songIndex = 0;
         List<Song> songs;
         Neuron[,] map;
         Neuron bestMatchingUnit;
         Random rand;
 
-        public SOM1(List<Song> songs)
+        public VanillaSOM(List<Song> songs, int row, int col)
         {
             this.songs = songs;
+            this.row = row;
+            this.col = col;
             map = new Neuron[row, col];
             currentIteration = 1;
             rand = new Random();
@@ -56,33 +57,14 @@ namespace Sample_Som
 
         public void GenerateRandomWeights()
         {
-            for(int i = 0; i < row; i++)
+            for (int i = 0; i < row; i++)
             {
-                for(int j = 0; j < col; j++)
+                for (int j = 0; j < col; j++)
                 {
-                    map[i,j] = new Neuron();
-                    map[i,j].Initialize();
-                    map[i,j].xPos = i;
-                    map[i,j].yPos = j;
-
-                    //Set genre tags
-                    if(i >= 0 && i < row/2 && j >= 0 && j < col/2)
-                    {
-                        map[i,j].tag = "Rock";
-                    }
-                    else if(i >= 0 && i < row/2 && j >= col/2 && j < col)
-                    {
-                        map[i,j].tag = "Reggae";
-                    }
-                    else if (i >= row/2 && i < row && j >= 0 && j < col/2)
-                    {
-                        map[i,j].tag = "Country";
-                    }
-                    else if (i >= row/2 && i < row && j >= col/2 && j < col)
-                    {
-                        map[i,j].tag = "Blues";
-                    }
-                    
+                    map[i, j] = new Neuron();
+                    map[i, j].Initialize();
+                    map[i, j].xPos = i;
+                    map[i, j].yPos = j;
                 }
             }
         }
@@ -91,44 +73,44 @@ namespace Sample_Som
         {
             double value = -1;
             double temp = 0;
-            
+
             songIndex = rand.Next(0, songs.Count);
-            for(int i = 0; i < row; i++)
+            for (int i = 0; i < row; i++)
             {
-                for(int j = 0; j < col; j++)
+                for (int j = 0; j < col; j++)
                 {
-                    temp = map[i,j].GetDistance(songs[songIndex].Features);
-                    if(value == -1)
+                    temp = map[i, j].GetDistance(songs[songIndex].Features);
+                    if (value == -1)
                     {
                         value = temp;
                     }
-                   // Console.WriteLine("Temp: " + temp);
-                   // Console.WriteLine("Value: " + value);
-                    if (temp <= value && songs[songIndex].Genre == map[i,j].tag)
+                    // Console.WriteLine("Temp: " + temp);
+                    // Console.WriteLine("Value: " + value);
+                    if (temp <= value)
                     {
-                        Console.WriteLine("Genre Tag: " + map[i, j].tag);
-                        Console.WriteLine("Title: " + songs[songIndex]);
+                        
+                        Console.WriteLine("Title: " + songs[songIndex].Title);
                         Console.WriteLine("New Best Matching Unit");
                         Console.WriteLine("Best X: " + i + " Best Y: " + j);
                         value = temp;
-                        bestMatchingUnit = map[i,j];
+                        bestMatchingUnit = map[i, j];
                     }
                     else
                     {
                         value = temp;
                     }
                 }
-            } 
+            }
 
         }
 
         public void FindKNearestNeighbor()
         {
-            for(int i = 1; i <= newRadius; i++)
+            for (int i = 1; i <= newRadius; i++)
             {
-                for(int j = 1; j <= newRadius; j++)
+                for (int j = 1; j <= newRadius; j++)
                 {
-                    if(bestMatchingUnit != null)
+                    if (bestMatchingUnit != null)
                     {
                         //Up
                         if (bestMatchingUnit.xPos - i >= 0)
@@ -171,13 +153,13 @@ namespace Sample_Som
                             map[bestMatchingUnit.xPos + i, bestMatchingUnit.yPos - j].AdjustWeights(songs[songIndex], newLearningRate);
                         }
                     }
-                    
+
                 }
             }
-            
+
         }
 
-        
+
 
         public void Train()
         {
@@ -198,7 +180,7 @@ namespace Sample_Som
             newRadius = 1;
             currentIteration = 1;
             //Fine Adjustment
-            for(int i = 0; i < iterations; i++)
+            for (int i = 0; i < iterations; i++)
             {
                 SetBestMatchingUnit();
                 FindKNearestNeighbor();
@@ -206,7 +188,7 @@ namespace Sample_Som
             }
 
             //Add songs to neurons
-            for(int i = 0; i < songs.Count; i++)
+            for (int i = 0; i < songs.Count; i++)
             {
                 value = -1;
                 for (int j = 0; j < row; j++)
@@ -214,40 +196,45 @@ namespace Sample_Som
                     for (int x = 0; x < col; x++)
                     {
                         temp = map[j, x].GetDistance(songs[i].Features);
-                        if(value == -1)
+                        if (value == -1)
                         {
                             value = temp;
                         }
-                       
-                        if (temp <= value && songs[i].Genre == map[j,x].tag)
+
+                        if (temp <= value)
                         {
                             Debug.WriteLine("Final Temp: " + temp);
                             Debug.WriteLine("Final Value: " + value);
-                            Debug.WriteLine("Adding song to best matching unit " +songs[i].Title +" " +songs[i].Genre);
+                            Debug.WriteLine("Adding song to best matching unit " + songs[i].Title + " " + songs[i].Genre);
                             value = temp;
+                            //bestMatchIndexX = j;
+                            //bestMatchIndexY = x;
+                            //map[bestMatchIndexX, bestMatchIndexY].AddSongToList(songs[i]);
+                            //songs[i].XPos = bestMatchIndexX;
+                            //songs[i].YPos = bestMatchIndexY;
                             bestMatchingUnit = map[j, x];
                         }
                     }
-                   
+
                 }
                 songs[i].XPos = bestMatchingUnit.xPos;
                 songs[i].YPos = bestMatchingUnit.yPos;
             }
             for (int i = 0; i < songs.Count; i++)
             {
-                Debug.WriteLine(songs[i].Title +" Genre: " +songs[i].Genre);
-                Debug.WriteLine(songs[i].XPos +", " +songs[i].YPos);
+                Debug.WriteLine(songs[i].Title + " Genre: " + songs[i].Genre);
+                Debug.WriteLine(songs[i].XPos + ", " + songs[i].YPos);
             }
 
-            Writer.write(songs);
+            //Writer.write(songs);
         }
 
         public void DecayRadius()
         {
             decimal value;
             value = radius * ((decimal)(iterations - currentIteration) / (decimal)iterations);
-            newRadius = (int) Math.Ceiling(value);
-            if(newRadius < 1)
+            newRadius = (int)Math.Ceiling(value);
+            if (newRadius < 1)
             {
                 newRadius = 1;
             }
@@ -264,6 +251,5 @@ namespace Sample_Som
             }
             //Debug.WriteLine("Learning Rate: " + newLearningRate);
         }
-
     }
 }
