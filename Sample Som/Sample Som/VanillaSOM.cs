@@ -97,7 +97,7 @@ namespace Sample_Som
                     }
                     else
                     {
-                        value = temp;
+                        Console.WriteLine("Skipped");
                     }
                 }
             }
