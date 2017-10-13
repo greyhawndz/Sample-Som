@@ -17,10 +17,10 @@ namespace Sample_Som
             reader.ReadXML("data_Country.i3dmods");
             reader.ReadXML("data_Reggae.i3dmods");
 
-            VanillaSOM som = new VanillaSOM(reader.songs, 4, 4);
-            som.Train();
-            //SOM1 structuredSOM = new SOM1(reader.songs);
-            //structuredSOM.Train();
+            //VanillaSOM som = new VanillaSOM(reader.songs, 4, 4);
+            //som.Train();
+            SOM1 structuredSOM = new SOM1(reader.songs);
+            structuredSOM.Train();
             //simulateFormula();
         }
 
